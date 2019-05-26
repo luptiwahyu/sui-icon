@@ -1,15 +1,14 @@
 # Semantic UI Icon
 
-This repository is a fork from (https://github.com/Semantic-Org/UI-Icon/)
+Fork from https://github.com/Semantic-Org/UI-Icon.git
 
-#### To install with Bower
-```
-bower install semantic-ui-icon
-```
-
-#### To install with NPM
+#### Installation
 ```
 npm install semantic-ui-icon
+```
+
+```
+import 'sui-icon/icon.css'
 ```
 
 
