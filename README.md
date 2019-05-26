@@ -4,7 +4,7 @@ Fork from https://github.com/Semantic-Org/UI-Icon.git
 
 #### Installation
 ```console
-$ npm install semantic-ui-icon
+$ npm install sui-icon
 ```
 
 ```javascript
