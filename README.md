@@ -3,11 +3,11 @@
 Fork from https://github.com/Semantic-Org/UI-Icon.git
 
 #### Installation
-```
-npm install semantic-ui-icon
+```console
+$ npm install semantic-ui-icon
 ```
 
-```
+```javascript
 import 'sui-icon/icon.css'
 ```
 
