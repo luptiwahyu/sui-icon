@@ -1,0 +1,17 @@
+{
+  "name": "sui-icon",
+  "version": "1.0.0",
+  "title": "Semantic UI - Icon",
+  "description": "Fork from https://github.com/Semantic-Org/UI-Icon.git",
+  "homepage": "https://github.com/luptiwahyu/sui-icon#readme",
+  "author": "Lupti Wahyu <luptiwahyu@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luptiwahyu/sui-icon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luptiwahyu/sui-icon/issues"
+  },
+  "keywords": ["semantic", "ui", "icon", "css", "framework"]
+}
