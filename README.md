@@ -7,13 +7,12 @@ Fork from https://github.com/Semantic-Org/UI-Icon.git
 $ npm install sui-icon
 ```
 
+#### Usage
 ```javascript
 import 'sui-icon/icon.css'
 ```
 
 
-## Addendum
+## Documentation
 
-This element's definitions (required class names, html structures) are available in the [UI Docs](http://www.semantic-ui.com)
-
-Please consider checking out [all the benefits to theming](http://www.learnsemantic.com/guide/expert.html) before using these stand-alone releases.
+This element's definitions are available in the [Docs](https://semantic-ui.com/elements/icon.html)
